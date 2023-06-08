@@ -8,6 +8,7 @@ body{
 	height:100px;
 	width:100px;
 	font-size:40px;
+	
 }
 
 .item-3{
@@ -23,7 +24,7 @@ body{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
-	gap:0 0.5px;
+	gap:0px 0.5px;
 	
 }
 
